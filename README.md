@@ -24,7 +24,9 @@ I’m a Computer Science undergraduate with a strong academic foundation and han
 **Machine Learning Intern — LaunchEd Global**  
 Worked on data preprocessing, ML model development, and evaluation.
 
----
+###  Currently Learning:
+-  Containerization with Docker
+-  Real-Time data handling
 
 ###  Connect
 [LinkedIn](https://linkedin.com/in/anwesha-singh-muj) · [GitHub](https://github.com/Anwesha-code) · 
