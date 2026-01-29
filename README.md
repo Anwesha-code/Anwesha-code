@@ -21,7 +21,7 @@ I’m a Computer Science undergraduate with a strong academic foundation and han
 - **Employee Salary Prediction (ML Capstone)**  
 
 ###  Experience
-**Machine Learning Intern — LaunchEd Global**  
+**Machine Learning Intern - LaunchEd Global**  
 Worked on data preprocessing, ML model development, and evaluation.
 
 ###  Currently Learning:
@@ -32,4 +32,4 @@ Worked on data preprocessing, ML model development, and evaluation.
 [LinkedIn](https://linkedin.com/in/anwesha-singh-muj) · [GitHub](https://github.com/Anwesha-code) · 
 Feel free to reach out :)
 
-*Learning. Improving — one project at a time.*
+*Learning & Improving - one project at a time.*
