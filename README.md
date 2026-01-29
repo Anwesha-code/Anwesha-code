@@ -17,7 +17,7 @@ I’m a Computer Science undergraduate with a strong academic foundation and han
 **Tools:** Git, GitHub, Jupyter, VS Code, Oracle SQL  
 
 ###  Some Projects
-- **Carbon Emission Prediction at Data Centers**  
+- **Carbon Emission Prediction at Data Centers** (Onging) 
 - **Employee Salary Prediction (ML Capstone)**  
 
 ###  Experience
