@@ -17,8 +17,11 @@ I’m a Computer Science undergraduate with a strong academic foundation and han
 **Tools:** Git, GitHub, Jupyter, VS Code, Oracle SQL  
 
 ###  Some Projects
-- **Carbon Emission Prediction at Data Centers** (Onging) 
-- **Employee Salary Prediction (ML Capstone)**  
+- **Carbon Emission Prediction at Data Centers** (Onging)
+    - https://anwesha-code.github.io/PBL4-Midterm-Presentation/
+    - https://github.com/Anwesha-code/CarbonEmissionPredictionRNN-NinOA
+- **Employee Salary Prediction (ML Capstone)**
+    -  https://github.com/Anwesha-code/LaunchEd_CapstoneProject
 
 ###  Experience
 **Machine Learning Intern - LaunchEd Global**  
