@@ -22,6 +22,10 @@ I’m a Computer Science undergraduate with a strong academic foundation and han
     - https://github.com/Anwesha-code/CarbonEmissionPredictionRNN-NinOA
 - **Employee Salary Prediction (ML Capstone)**
     -  https://github.com/Anwesha-code/LaunchEd_CapstoneProject
+- **Jenkins Job Template Enigine**
+    -  https://github.com/Anwesha-code/jenkins-job-template-engine
+- **Data Drift Prediction in ML Models**
+    -  https://github.com/Anwesha-code/data-drift-prediction-in-ml-models
 
 ###  Experience
 **Machine Learning Intern - LaunchEd Global**  
