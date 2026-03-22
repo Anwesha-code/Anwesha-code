@@ -34,6 +34,7 @@ Worked on data preprocessing, ML model development, and evaluation.
 ###  Currently Learning:
 -  Containerization with Docker
 -  Real-Time data handling
+-  Building machine learning pipelines
 
 ###  Connect
 [LinkedIn](https://linkedin.com/in/anwesha-singh-muj) · [GitHub](https://github.com/Anwesha-code) · 
