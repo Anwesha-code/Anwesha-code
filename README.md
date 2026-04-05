@@ -11,11 +11,11 @@ I’m a Computer Science undergraduate with a strong academic foundation and han
 - Reading
 
 ###  Tech Stack
-**Languages:** C, Python, SQL  
-**ML & Data:** Scikit-learn, TensorFlow, Pandas, NumPy  
-**Core CS:** Data Structures & Algorithms  
-**Tools:** Git, GitHub, Jupyter
-**DevOps:** Jenkins
+- **Languages:** C, Python, SQL  
+- **ML & Data:** Scikit-learn, TensorFlow, Pandas, NumPy  
+- **Core CS:** Data Structures & Algorithms  
+- **Tools:** Git, GitHub, Jupyter
+- **DevOps:** Jenkins
 
 ###  Some Projects
 - **Carbon Emission Prediction at Data Centers** (Onging)
