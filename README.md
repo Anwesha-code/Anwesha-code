@@ -38,7 +38,7 @@ Worked on data preprocessing, ML model development, and evaluation.
 -  Building machine learning pipelines
 
 ###  Connect
-[LinkedIn](https://linkedin.com/in/anwesha-singh-muj) · [GitHub](https://github.com/Anwesha-code) · 
+[LinkedIn](https://linkedin.com/in/anwesha-singh-muj) · [GitHub](https://github.com/Anwesha-code) · anweshasingh0611@gmail.com
 Feel free to reach out :)
 
 *Learning & Improving - one project at a time.*
